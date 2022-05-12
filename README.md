@@ -4,7 +4,7 @@
 </p>
 
 
-![cover](.github/image.png)
+<img src="github/image.png" alt="Imagem do projeto"/>
 
 
 ## 💻 Projeto
