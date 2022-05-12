@@ -4,7 +4,7 @@
 </p>
 
 
-![cover](.github/cover.png?style=flat)
+![cover](.github/image.png)
 
 
 ## 💻 Projeto
